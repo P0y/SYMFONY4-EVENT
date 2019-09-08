@@ -1,0 +1,26 @@
+{
+  "name": "myevent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://poy_source_code@bitbucket.org/ygalland/myevent.git"
+  },
+  "author": "poy",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ygalland/myevent#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.27.0",
+    "webpack-notifier": "^1.6.0"
+  }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="sbAeTnG" resname="field.not_blank">
+        <source>field.not_blank</source>
+        <target>Champ requis</target>
+      </trans-unit>
+      <trans-unit id=".AkC.4X" resname="email.not_valid">
+        <source>email.not_valid</source>
+        <target>Cette email n'est pas valide</target>
+      </trans-unit>
+      <trans-unit id=".0MtmXF" resname="email.not_unique">
+        <source>email.not_unique</source>
+        <target>un compte existe déjà avec cet email</target>
+      </trans-unit>
+      <trans-unit id="kIMGZMK" resname="field.not_long_enough">
+        <source>field.not_long_enough</source>
+        <target>Champs pas assez long</target>
+      </trans-unit>
+      <trans-unit id="GDq.6ab" resname="field.not_too_long">
+        <source>field.not_too_long</source>
+        <target>Champs trop long</target>
+      </trans-unit>
+      <trans-unit id="pnvw7bf" resname="login.email_or_password_not_valid">
+        <source>login.email_or_password_not_valid</source>
+        <target>Email ou mot de passe incorrect</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

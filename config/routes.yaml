@@ -1,0 +1,4 @@
+api:
+    resource: routing.yaml
+    name_prefix: api_
+    prefix: /api

@@ -1,0 +1,1 @@
+field.not_blank: Champs requisemail.not_valid: Cette email n'est pas valideemail.not_unique: un compte existe déjà avec cet emailfield.not_long_enough: Champs pas assez longfield.not_too_long: Champs trop longlogin.email_or_password_not_valid: Email ou mot de passe incorrect
